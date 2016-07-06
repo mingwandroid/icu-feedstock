@@ -28,6 +28,7 @@ requirements:
     # at present, this one is only on conda-forge
     #    conda config --add channels conda-forge
     - msinttypes        # [win and py<34]
+    - python
 
 test:
   files:
